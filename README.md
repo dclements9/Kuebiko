@@ -1,6 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
+## Kuebiko
 
 In the project directory, you can run:
 
@@ -67,3 +65,16 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 # Kuebiko
+
+## Development
+
+To release a new version, update the version number in version.rb. Push git commits and tags. Contributing
+## Contributing
+
+Bug reports and pull requests are welcome on GitHub at https://github.com/dclements9/Hara-Backend. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the Contributor Covenant code of conduct.
+## License
+
+The project is available as open source under the terms of the MIT License. Code of Conduct
+## Code of Conduct
+
+Everyone interacting in the Hara project’s codebases, issue trackers, chat rooms and mailing lists is expected to follow the code of conduct.
