@@ -3,7 +3,7 @@
 import React from 'react';
 import MythContainer from '../Containers/MythContainer'
 
-const MythComponent = (
+const MythComponent = () => (
     <div>
         <h1> Myth Component</h1>
         <MythContainer />
